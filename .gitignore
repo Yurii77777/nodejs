@@ -1,9 +1,6 @@
 node_modules
 .env
 dist
-*.map
-*.js.map
-*.js
 *.rdb
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
